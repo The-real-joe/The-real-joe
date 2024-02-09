@@ -3,7 +3,7 @@ I am Joseph Boucher
 I am a fullstack web developer
 i am working on getting my GCA certification
 Im currently learning frontend a  backend
- aske me anything else
+ ask me anything else
 <!--
 **The-real-joe/The-real-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
