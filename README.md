@@ -1,5 +1,6 @@
 ### Hi there 👋
- I am Joseph Boucher and I am a Fullstack Web Developer. I am currently working on my GCA certification and am continuing to learn more tools on both the frontend and backend.
+ I am Joseph Boucher and I am a Fullstack Web Developer. I am currently working on my GCA certification and am continuing to learn more tools on both the frontend and backend. I have used my problem solcing skills throughout my career in all positions. I take pride in my work and have great attention to detail. I also enjoy seeing something i helped create from nothing. I have also been trained with javascript. This includess HTML, CSS, Yup, form schema, express, nodemon, and more.
+ I am higly motivated to be succesfull in all aspects of my life. I am organized, reliable, and ambitious and look forward to what the futur brings.
 <!--
 **The-real-joe/The-real-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
